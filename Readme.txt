@@ -61,7 +61,8 @@ The analysis helps businesses improve website performance and marketing effectiv
 
 ### Correlation Heatmap
 
-![Heatmap](screenshots/heatmap.png)
+
+
 
 ---
 
